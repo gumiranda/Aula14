@@ -1,4 +1,19 @@
 {
   "name": "devdoido",
-  "displayName": "devdoido"
+  "displayName": "devdoido",
+  "expo": {
+    "name": "devdoido",
+    "icon": "./appstore.png",
+    "version": "1.0.0",
+    "sdkVersion": "38.0.0",
+    "slug": "devdoido",
+    "ios": {
+      "bundleIdentifier": "com.devdoido",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.devdoido",
+      "versionCode": 1
+    }
+  }
 }
