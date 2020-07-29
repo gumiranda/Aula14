@@ -20,6 +20,7 @@
     "cep-promise": "^3.0.9",
     "date-fns": "^2.14.0",
     "date-fns-tz": "^1.0.10",
+    "expo": "^38.0.8",
     "expo-updates": "^0.2.12",
     "formik": "^2.1.4",
     "immer": "^6.0.9",
